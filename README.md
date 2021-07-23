@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kuniyoshi-Lucas
 - 👀 I’m interested in Deep Learning and ML
 - 🌱 I’m currently studying Applied Computing at Brasilia University (UnB)
-- 💞️ I’m looking to collaborate on an optimization project at my UnB and working at Brasilia International Airport
+- 💞️ I’m looking to collaborate on an optimization project at UnB and working at Brasilia International Airport
 - 📫 You can reach me in lucas.kuniyoshi@aluno.unb.br or twitter.com/lucaskuni
 
 <!---
